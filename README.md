@@ -1,4 +1,4 @@
-# 🧾 Invoice Processing Time Prediction System
+# 🧾 An Agile Data Science Application for Invoice Processing Time Prediction and Monitoring
 
 ## 📌 Project Overview
 This project implements an **Agile Machine Learning pipeline** to predict the time required to process financial invoices. It addresses the business problem of **resource allocation** by allowing Team Leads to estimate workload and Managers to monitor team efficiency.
