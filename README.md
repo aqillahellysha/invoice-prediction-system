@@ -3,6 +3,17 @@
 ## 📌 Project Overview
 This project implements an **Agile Machine Learning pipeline** to predict the time required to process financial invoices. It addresses the business problem of **resource allocation** by allowing Team Leads to estimate workload and Managers to monitor team efficiency.
 
+# 🧩 Agile Development Overview
+
+This project was developed using an Agile, sprint-based approach to support iterative model improvement and system enhancement.
+
+Key iterations include:
+- **Sprint 1:** Data preparation and baseline model development (Model v1)
+- **Sprint 2:** Model improvement and prediction application development (Model v2)
+- **Sprint 3:** Monitoring dashboard implementation and evaluation
+
+Detailed user stories, product backlog, sprint planning, and iteration analysis are documented in the accompanying case study report.
+
 ## 🚀 Key Features
 * **Model v1 (Baseline):** Linear Regression using only `Invoice Amount`.
 * **Model v2 (Production):** Random Forest Regressor using `User Name`, `Document Type`, and `Amount`.
