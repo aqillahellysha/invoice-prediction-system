@@ -13,3 +13,9 @@ This project implements an **Agile Machine Learning pipeline** to predict the ti
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/aqillahellysha/invoice-prediction-system.git](https://github.com/aqillahellysha/invoice-prediction-systemt)
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Clone the repo:**
+   ```bash
+   streamlit run main.py
